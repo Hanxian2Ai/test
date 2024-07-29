@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="niuke:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/niuke_jar</output-path>
+    <root id="archive" name="niuke.jar">
+      <element id="module-output" name="niuke" />
+    </root>
+  </artifact>
+</component>
